@@ -1,10 +1,11 @@
 * 
 .header {
   text-align: center;
+  font-family: ;
   text-transform: uppercase;
   padding: 32px;
-  background-color: #0a0a23;
+  background-color: #8b099f;
   color: #fff;
-  border-bottom: 4px solid #fdb347;
+  border-bottom: 4px solid #073c85;
 }
 
