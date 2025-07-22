@@ -2,6 +2,9 @@
 .header {
   text-align: center;
   text-transform: uppercase;
+  font-family: Impact;
+  font-style: oblique;
+  font-size: 30px;
   padding: 32px;
   background-color: #8b099f;
   color: #fff;
